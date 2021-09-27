@@ -55,6 +55,10 @@ Software Engineering Management: JIRA;<br/>
 Testing: Unit Testing;<br/>
 
 ---
+## Education:
+### University [**PSW BP**](http://www.pswbp.pl/) 
++ Development of mobile applications
+---
 ## Languages:
 + Russian - Native
 + English - Pre-Intermediate
