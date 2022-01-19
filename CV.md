@@ -10,7 +10,7 @@
 
 ---
 ## Briefly About Myself:
-1 years experience in software engineering, mostly developing software for  on .Net desktop application development. Also has experience with products delivery technologies and tools (CI/CD) and Automated Testing in .Net.
+1 years experience in software engineering, mostly developing software for  on .Net desktop application development. Also has experience with products delivery technologies and tools (CI/CD) in .Net.
 <br/>
 ### Major experience:
 + Design and development desktop applications (C# .Net, WinForm/Wpf, Sql)
@@ -48,7 +48,8 @@ Installation Packages: NuGet, Windows Installer;<br/>
 RDBMS: Microsoft SQL Server;<br/>
 Network Protocols: REST;<br/>
 Message Bus: RabbitMQ, MassTransit;<br/>
-Microsoft Technologies: ADO.NET, Entity Framework, LINQ, NLog, WinForms, Windows Presentation Foundation, XAML;<br/>
+Microsoft Technologies: ADO.NET, Entity Framework, Web Api 2, LINQ, NLog, WinForms, Windows Presentation Foundation, XAML;<br/>
+CI/CD: Azure;<br/>
 Office Software: MS Excel, MS Outlook, PowerPoint;<br/>
 Version Control Systems: Git, GitHub, GitExeption;<br/>
 Software Engineering Management: JIRA;<br/>
