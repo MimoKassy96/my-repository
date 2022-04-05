@@ -1,5 +1,5 @@
 # Uladzislau Karpovich
-## Junior full stac developer
+## Junior full stack developer
 
 ---
 ## Contact information:
