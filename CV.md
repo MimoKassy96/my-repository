@@ -1,5 +1,5 @@
 # Uladzislau Karpovich
-## Junior .Net Developer
+## Junior full stac developer
 
 ---
 ## Contact information:
@@ -48,7 +48,8 @@ Installation Packages: NuGet, Windows Installer;<br/>
 RDBMS: Microsoft SQL Server;<br/>
 Network Protocols: REST;<br/>
 Message Bus: RabbitMQ, MassTransit;<br/>
-Microsoft Technologies: ADO.NET, Entity Framework, Web Api 2, LINQ, NLog, WinForms, Windows Presentation Foundation, XAML;<br/>
+Microsoft Technologies: ADO.NET, Entity Framework, Web Api 2, ASP .NET, ASP .NET CORE, LINQ, NLog, WinForms, Windows Presentation Foundation, XAML;<br/>
+Web Technologies: React.js;<br/>
 CI/CD: Azure;<br/>
 Office Software: MS Excel, MS Outlook, PowerPoint;<br/>
 Version Control Systems: Git, GitHub, GitExeption;<br/>
